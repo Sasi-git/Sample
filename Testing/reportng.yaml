@@ -1,0 +1,9 @@
+name: Suite
+listeners:
+  - org.uncommons.reportng.HTMLReporter
+  - org.uncommons.reportng.JUnitXMLReporter
+tests:
+  - name: Test
+    classes:
+      - seleniumeasy.com.All_Elements_AUT
+

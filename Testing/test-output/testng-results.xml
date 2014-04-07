@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47346" started-at="2014-01-29T11:05:31Z" finished-at="2014-01-29T11:06:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47346" started-at="2014-01-29T11:05:31Z" finished-at="2014-01-29T11:06:18Z">
+      <class name="seleniumeasy.com.IFrame">
+        <test-method status="PASS" signature="open()[pri:0, instance:seleniumeasy.com.IFrame@45a270b2]" name="open" duration-ms="47334" started-at="2014-01-29T16:35:31Z" finished-at="2014-01-29T16:36:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- seleniumeasy.com.IFrame -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
